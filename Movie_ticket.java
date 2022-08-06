@@ -1,10 +1,11 @@
-//import java.util.HashMap;
-//import java.util.LinkedList;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Scanner;
 //import java.awt.*;
 //import java.awt.event.*;
 //import javax.swing.*;
 //import java.io.*;
-import java.util.Scanner;
+
 
 	public class Movie_ticket{
 		public static void main(String args[]) {
